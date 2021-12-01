@@ -6,7 +6,7 @@
  *                https://algs4.cs.princeton.edu/15uf/mediumUF.txt
  *                https://algs4.cs.princeton.edu/15uf/largeUF.txt
  *
- *  Quick-union algorithm.
+ *  Quick-union algorithm...
  *
  ******************************************************************************/
 
